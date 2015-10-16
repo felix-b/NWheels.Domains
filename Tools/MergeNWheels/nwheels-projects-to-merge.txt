@@ -1,0 +1,15 @@
+NWheels
+NWheels.UnitTests
+NWheels.Domains.Security
+NWheels.Stacks.AspNet
+NWheels.Stacks.NancyFx
+NWheels.Stacks.EntityFramework
+NWheels.Stacks.EntityFramework.Tests
+NWheels.Stacks.MongoDb
+NWheels.Stacks.MongoDb.Tests
+NWheels.Stacks.ODataBreeze
+NWheels.Stacks.ODataBreeze.SystemTests
+NWheels.Stacks.Nlog
+NWheels.Testing
+NWheels.Testing.UnitTests
+NWheels.Tools.TestBoard
